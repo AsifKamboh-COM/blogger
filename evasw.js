@@ -1,0 +1,1 @@
+importScripts('https://dihlw.com/v1/sw-import.js?h=waWQiOjEwNTI4OTUsInNpZCI6MTA1ODAxNCwid2lkIjoxMjQ4MTEsInNyYyI6MiwicG0iOjB9eyJ&d=9xmovies.stream');
